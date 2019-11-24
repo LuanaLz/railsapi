@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  numero: 1
+  qtd_escalas: 1
+  origem: 1
+  destino: 1
+  data_saida: 2019-11-23
+  aeronave: one
+
+two:
+  numero: 1
+  qtd_escalas: 1
+  origem: 1
+  destino: 1
+  data_saida: 2019-11-23
+  aeronave: two

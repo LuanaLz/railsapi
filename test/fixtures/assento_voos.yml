@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  voo: one
+  assento: one
+  passageiro: one
+
+two:
+  voo: two
+  assento: two
+  passageiro: two
